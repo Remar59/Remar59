@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Rémi Lévy 👋
 
-<!--
-**Remar59/Remar59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 💻 Currently training as a Full-Stack Web developper
+* 🖌️ Greatly interested in Front-End
+* 💽 But I'm also keen on Back-End
+* 💾 I'm really fond of technology (Hardware, Software...)
+* 🏢 Previously worked as a technical drawer in an engineering firm
+* 💂 Speak decent English
+* 🥐 Mon français n'est pas mauvais non plus
+* ⛩️日本語でもしゃべられますよ。
+* 👟🎮📖🛠️ My hobbies are jogging, gaming, reading, renovating stuff...
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  _____________
+  
+  Please check my work ! If you want to contact me => https://www.linkedin.com/in/r%C3%A9mi-l%C3%A9vy-855b978a
